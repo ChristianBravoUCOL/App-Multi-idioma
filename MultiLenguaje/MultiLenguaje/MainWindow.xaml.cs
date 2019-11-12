@@ -24,5 +24,10 @@ namespace MultiLenguaje
         {
             InitializeComponent();
         }
+
+        private void ddlLanguage_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+
+        }
     }
 }
